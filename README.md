@@ -35,8 +35,3 @@ Forecast demand at EV charging stations using timestamped usage, temperature, an
 
 ---
 
-### 📂 Files Delivered
-- Tableau Workbook (.twbx or .hyper)
-- Screenshot of dashboard
-- README and Strategy report (this file)
-
